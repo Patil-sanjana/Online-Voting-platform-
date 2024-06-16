@@ -2,7 +2,7 @@ index.html<br>
 <h3>1.Basic HTML Structure</h5>
 <!DOCTYPE html>
 <html>
-    <body>
+    <body>s
         <title>Patil</title>
         <h1>Sanjana Patil</h1>
         <p>I am Sanjana Patil,I am from Bidar 
@@ -65,7 +65,115 @@ index.html<br>
         <li>Good story</li>
     </ul>
 </ol>
+<h3>6.Semantic HTML</h3>
+<article>
+    <header>
+      <h1>What Does Skolar</h1>
+      <p>Skolar mission:</p>
+    </header>
+    <p>It is a IT sector and they are provding training and intership to students to get settled</p>
+  </article>
    
+  <nav>
+    <a href="/agcms/">AGCMS</a> |
+    <a href="/kres/">KRE's</a> |
+  </nav>
+  <article>
+    <h2>Instagram</h2>
+    <p>Instagram is one the most trending social media.it was launched in the year 2010 in the month of october.</p>
+    </article>
+    <article>
+        <h2>Akash group of institute</h2>
+        <p>Akash group of institute is a eductional institute.where it is running all the courses from past 10 yrs.it is located in bengluru.</p>
+    </article>
+     
+<aside>
+<h4>Epcot Center</h4>
+<p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</aside>
+<footer>
+    <p>Author: Hege Refsnes</p>
+    <p><a href="https://www.gutenberg.org/ebooks/100.epub.images">shakesphere@example.com</a></p>
+  </footer>
+  <h3>7.HTML Media</h3>
+  <h3>HTML Media</h3>
+  <audio controls autoplay muted>
+    <source src="horse.ogg" type="audio/ogg">
+    <source src="horse.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+  </audio>
+  <video width="320" height="240" controls>
+    <source src="movie.mp4" type="video/mp4">
+    <source src="movie.ogg" type="video/ogg">
+    Your browser does not support the video tag.
+  </video>  
 
+  <h3>Assignment 8.HTML Forms with select and Radio 
+   buttons </h3>
+   <form method="get" action="something.php">
+     <input type="text" name="name" />
+ </form>
+ 
+ <input type="submit" />
+ <h3>HTML5 sematic Elements</h3>
+ <article>
+   <header>
+     <h1>What Does WWF Do?</h1>
+     <p>WWF's mission:</p>
+   </header>
+   <p>WWF's mission is to stop the degradation of our planet's natural environment,
+   and build a future in which humans live in harmony with nature.</p>
+ </article>
+ <nav>
+   <a href="/html/">HTML</a> |
+   <a href="/css/">CSS</a> |
+   <a href="/js/">JavaScript</a> |
+   <a href="/jquery/">jQuery</a>
+ </nav>
+ <section>
+   <h1>WWF</h1>
+   <p>The World Wide Fund for Nature (WWF) is an international organization working on issues regarding the conservation, research and restoration of the environment, formerly named the World Wildlife Fund. WWF was founded in 1961.</p>
+   </section>
+   
+   <section>
+   <h1>WWF's Panda symbol</h1>
+   <p>The Panda has become the symbol of WWF. The well-known panda logo of WWF originated from a panda named Chi Chi that was transferred from the Beijing Zoo to the London Zoo in the same year of the establishment of WWF.</p>
+   </section>
+   <article>
+     <h2>Google Chrome</h2>
+     <p>Google Chrome is a web browser developed by Google, released in 2008. Chrome is the world's most popular web browser today!</p>
+     </article>
+     
+     <article>
+     <h2>Mozilla Firefox</h2>
+     <p>Mozilla Firefox is an open-source web browser developed by Mozilla. Firefox has been the second most popular web browser since January, 2018.</p>
+     </article>
+     
+     <article>
+     <h2>Microsoft Edge</h2>
+     <p>Microsoft Edge is a web browser developed by Microsoft, released in 2015. Microsoft Edge replaced Internet Explorer.</p>
+     </article>
+     <aside>
+       <h4>Epcot Center</h4>
+       <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+       </aside>
+       <footer>
+         <p>Author: Hege Refsnes</p>
+         <p><a href="mailto:hege@example.com">hege@example.com</a></p>
+       </footer>
+
+    <h3>HTML Comments and special Characaters</h3>
+    <!-- This is a comment -->
+
+      <p>This is a paragraph.</p>
+
+      <!-- Remember to add more information here --> 
+       
+       
+      <p>I will display &euro;</p>
+      <p>I will display &#8364;</p>
+      <p>I will display &#x20AC;</p>
+ 
+  
     </body>
 </html>
