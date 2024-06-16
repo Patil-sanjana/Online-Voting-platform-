@@ -2,7 +2,7 @@ index.html<br>
 <h3>1.Basic HTML Structure</h5>
 <!DOCTYPE html>
 <html>
-    <body>s
+    <body>
         <title>Patil</title>
         <h1>Sanjana Patil</h1>
         <p>I am Sanjana Patil,I am from Bidar 
@@ -108,7 +108,7 @@ index.html<br>
     Your browser does not support the video tag.
   </video>  
 
-  <h3>Assignment 8.HTML Forms with select and Radio 
+  <h3>8.HTML Forms with select and Radio 
    buttons </h3>
    <form method="get" action="something.php">
      <input type="text" name="name" />
